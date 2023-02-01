@@ -4,7 +4,7 @@
 <code>node index.js</code>
 <p>para correr el front, desde la carpeta client:</p>
 <code>npm run dev</code>
-<p>para actualizar la carpeta 'dist' ejecutar</p>
+<p>para actualizar la carpeta 'dist' ejecutar en la carpeta client</p>
 <code>npm run build</code>
 <hr/>
 Cualquier consulta me escriben al whatsapp...
